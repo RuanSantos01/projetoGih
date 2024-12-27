@@ -1,0 +1,24 @@
+[
+  {
+    "codigo": "123",
+    "imagensPath": "../../Assets/talita001.jpg",
+    "recado": "Este é um recado.",
+    "videosPath": "/videos/video1.mp4",
+    "pessoa": "João"
+  },
+  {
+    "codigo": "456",
+    "imagensPath": "/images/photo2.jpg",
+    "recado": "Outro recado aqui.",
+    "videosPath": "/videos/video2.mp4",
+    "pessoa": "Maria"
+  },
+  {
+    "codigo": "8XS01",
+    "imagensPath": "/Assets/talita001.jpg",
+    "recado": "Oi, Gi! Hoje você está vivenciando uma nova experiência na sua vida. E como tudo que é novo, essa experiência vem recheada de coisas boas e também desafiadoras. A viagem ao exterior te dá a oportunidade de conhecer uma nova cultura, uma nova língua, novas pessoas e te desafia a aprender, a amadurecer e a valorizar as coisas e as pessoas que você tem ao seu lado todos os dias. Com a vida, eu aprendi que nossas conquistas são acompanhadas também de responsabilidades. A vida adulta chega de mansinho, e de repente já tá dando rasteira, são tantas mudanças e novos desafios, aquela rotina de ensino médio já não é realidade, os anos começam a passar depressa e sem perceber nós já estamos planejando uma vida, sonhando com a viagem perfeita, uma carreira profissional e fazendo planos só nossos. Com grandes conquistas vem grandes responsabilidades. Talvez essa seja a palavra que melhor define o termo “adulto”, responsabilidade. Ahhh as responsabilidades, elas chegam de repente e não vão embora nunca mais. A sorte é que elas também vêm acompanhadas de conquistas, sonhos realizados, pessoas amadas. Hoje você está realizando um pequeno sonho, aprendendo uma nova língua, desafiando o desconhecido e se descobrindo adulta. Tudo isso pode gerar ansiedade, medo ou insegurança, mas deixa eu te contar algo, você não está sozinha, essas emoções e sentimentos nos acompanham em toda a nossa vida, principalmente na fase adulta, e são elas que nos tornam humanos e nos fazem criar laços afetivos, empáticos e saudáveis. Chorar, sentir medo, ter ansiedade, isso tudo é necessário para formar o ser humano. Quando alguma emoção negativa te atormentar, se lembre que aqui no Brasil, eu, Lucas e Bella estamos torcendo por você, acompanhando seu crescimento e prontos a te acolher, proteger e amparar.\n\nVocê vai fazer falta nesses dias, sua voz alta e ao mesmo tempo divertida vai silenciar por esse período, tua preguiça, mas ao mesmo tempo criatividade vai dar lugar ao quarto vazio. A saudade vai bater, mas nesse lugar vai ter uma torcida imensa para um retorno de uma garota que vai em busca de aprendizado, evolução e liberdade.\n\nPor isso… voa alto, Gi, eu estarei aqui no seu pouso ou se a saudade bater eu estarei aí ao teu lado, em pensamento, mensagem, recordações e palavras. Por você e para sempre com você. Da sua tia que te ama infinitamente.",
+    "videosPath": null,
+    "pessoa": "Talita, sua Tia."
+  }
+  
+]
