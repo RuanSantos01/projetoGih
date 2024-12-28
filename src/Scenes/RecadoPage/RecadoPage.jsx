@@ -9,6 +9,9 @@ const RecadoPage = ({ data, onBack }) => {
     );
   }
 
+  const imagens = data.imagensPath ? (Array.isArray(data.imagensPath) ? data.imagensPath : [data.imagensPath]) : [];
+  const videos = data.videosPath ? (Array.isArray(data.videosPath) ? data.videosPath : [data.videosPath]) : [];
+
   return (
     <div className="w-full max-w-sm sm:max-w-md md:max-w-lg p-4 sm:p-6 md:p-8 bg-white shadow-lg rounded-lg">
       <div className="w-full max-w-2xl p-6 sm:p-8 md:p-10 bg-white shadow-xl rounded-2xl relative max-h-[80vh] overflow-y-auto">
@@ -21,32 +24,60 @@ const RecadoPage = ({ data, onBack }) => {
           </p>
         </div>
 
+        {/* Primeira imagem, se houver mais de uma */}
+        {imagens.length > 1 && (
+          <div className="flex flex-col items-center mb-4">
+            <img
+              src={imagens[0]}
+              alt="Imagem inicial"
+              className="w-full max-w-md rounded-lg shadow-lg"
+            />
+          </div>
+        )}
+
         {/* Corpo do conteúdo */}
         <div className="space-y-4">
           <p className="text-justify text-gray-700">
             {data.recado}
           </p>
 
-          {/* Imagem */}
-          {data.imagensPath && (
-            <div className="flex flex-col items-center">
+          {/* Demais imagens, se houver mais de uma */}
+          {imagens.length > 1 && (
+            <div className="flex flex-col items-center mt-4">
+              {imagens.slice(1).map((imagem, index) => (
+                <img
+                  key={index}
+                  src={imagem}
+                  alt={`Imagem relacionada ${index + 1}`}
+                  className="w-full max-w-md rounded-lg shadow-lg mb-4"
+                />
+              ))}
+            </div>
+          )}
+
+          {/* Uma única imagem no final */}
+          {imagens.length === 1 && (
+            <div className="flex flex-col items-center mt-4">
               <img
-                src={data.imagensPath}
+                src={imagens[0]}
                 alt="Imagem relacionada"
                 className="w-full max-w-md rounded-lg shadow-lg"
               />
             </div>
           )}
 
-          {/* Vídeo */}
-          {data.videosPath && (
+          {/* Todos os vídeos no final */}
+          {videos.length > 0 && (
             <div className="flex flex-col items-center mt-4">
-              <video
-                controls
-                className="w-full max-w-md rounded-lg shadow-lg"
-              >
-                <source src={data.videosPath} type="video/mp4" />
-              </video>
+              {videos.map((video, index) => (
+                <video
+                  key={index}
+                  controls
+                  className="w-full max-w-md rounded-lg shadow-lg mb-4"
+                >
+                  <source src={video} type="video/mp4" />
+                </video>
+              ))}
             </div>
           )}
         </div>

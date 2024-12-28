@@ -1,24 +1,114 @@
 [
   {
-    "codigo": "123",
+    "codigo": "",
+    "imagensPath": "../../Assets/.jpg",
+    "recado": "",
+    "videosPath": "",
+    "pessoa": ""
+  },
+  {
+    "codigo": "WSA5C",
     "imagensPath": "../../Assets/talita001.jpg",
     "recado": "Este é um recado.",
     "videosPath": "/videos/video1.mp4",
     "pessoa": "João"
   },
   {
-    "codigo": "456",
-    "imagensPath": "/images/photo2.jpg",
-    "recado": "Outro recado aqui.",
-    "videosPath": "/videos/video2.mp4",
-    "pessoa": "Maria"
+    "codigo": "G5HPO",
+    "imagensPath": "/Assets/025.jpg",
+    "recado": "É muito legal ter uma sobrinha. Meu irmão não me deu, até agora, a oportunidade de ter essa experiência. E ganhei uma sobrinha em meados da pandemia. Eu já a conhecia há alguns anos, mas, até então, não havia sentido esse sentimento de tio por ela, pois tínhamos uma relação protocolar e distante. Na pandemia, uma menina \"bateu na minha porta\" e ela apresentava sentimentos de medo e abandono muito aflorados. Ela estava vulnerável e, na vulnerabilidade, mais aberta a um vínculo diferente. E de lá para cá, tem sido muito bacana acompanhar sua trajetória de evolução, onde ela grita por liberdade, mas se alimenta no aconchego. Essa viagem, Gi, me parece alinhada à sua busca por liberdade e, mesmo à distância, sempre que sentir falta de aconchego, vou estar por aqui para te ajudar no que for preciso. E como te disse no natal, vai dar tudo certo. Beijo minha sobrinha favorita (depois do Ruan).",
+    "videosPath": null,
+    "pessoa": "Lucas, seu Tio."
   },
   {
     "codigo": "8XS01",
-    "imagensPath": "/Assets/talita001.jpg",
+    "imagensPath": "/Assets/talita003.jpg",
     "recado": "Oi, Gi! Hoje você está vivenciando uma nova experiência na sua vida. E como tudo que é novo, essa experiência vem recheada de coisas boas e também desafiadoras. A viagem ao exterior te dá a oportunidade de conhecer uma nova cultura, uma nova língua, novas pessoas e te desafia a aprender, a amadurecer e a valorizar as coisas e as pessoas que você tem ao seu lado todos os dias. Com a vida, eu aprendi que nossas conquistas são acompanhadas também de responsabilidades. A vida adulta chega de mansinho, e de repente já tá dando rasteira, são tantas mudanças e novos desafios, aquela rotina de ensino médio já não é realidade, os anos começam a passar depressa e sem perceber nós já estamos planejando uma vida, sonhando com a viagem perfeita, uma carreira profissional e fazendo planos só nossos. Com grandes conquistas vem grandes responsabilidades. Talvez essa seja a palavra que melhor define o termo “adulto”, responsabilidade. Ahhh as responsabilidades, elas chegam de repente e não vão embora nunca mais. A sorte é que elas também vêm acompanhadas de conquistas, sonhos realizados, pessoas amadas. Hoje você está realizando um pequeno sonho, aprendendo uma nova língua, desafiando o desconhecido e se descobrindo adulta. Tudo isso pode gerar ansiedade, medo ou insegurança, mas deixa eu te contar algo, você não está sozinha, essas emoções e sentimentos nos acompanham em toda a nossa vida, principalmente na fase adulta, e são elas que nos tornam humanos e nos fazem criar laços afetivos, empáticos e saudáveis. Chorar, sentir medo, ter ansiedade, isso tudo é necessário para formar o ser humano. Quando alguma emoção negativa te atormentar, se lembre que aqui no Brasil, eu, Lucas e Bella estamos torcendo por você, acompanhando seu crescimento e prontos a te acolher, proteger e amparar.\n\nVocê vai fazer falta nesses dias, sua voz alta e ao mesmo tempo divertida vai silenciar por esse período, tua preguiça, mas ao mesmo tempo criatividade vai dar lugar ao quarto vazio. A saudade vai bater, mas nesse lugar vai ter uma torcida imensa para um retorno de uma garota que vai em busca de aprendizado, evolução e liberdade.\n\nPor isso… voa alto, Gi, eu estarei aqui no seu pouso ou se a saudade bater eu estarei aí ao teu lado, em pensamento, mensagem, recordações e palavras. Por você e para sempre com você. Da sua tia que te ama infinitamente.",
     "videosPath": null,
     "pessoa": "Talita, sua Tia."
+  },
+  {
+    "codigo": "HHJHE",
+    "imagensPath": "../../Assets/marley.jpg",
+    "recado": "Oii Gih, você sabe que eu não sou muito bom em escrever cartas ou coisas do tipo kkkkkk. Nem imagino o que você está passando por aí agora, mas pode ter certeza que estou morrendo de saudade de você e queria te lembrar de um dos rolês mais aleatórios que demos esse ano. Lembra do dia que marcamos de sair para a cachu, contei errado o número de pessoas que iam no carro e você teve que ir no carro do Ruan KKKKKK? Erramos o caminho no Waze e demoramos uns 30 minutos só pra chegar no Poço Azul. Finalmente chegamos depois de muita luta kkkkkkk. Pegamos o caminho errado por minha causa (em minha defesa, achei que estávamos do lado da entrada principal), a Júlia queria me matar e quase morreu depois de 5 minutos de caminhada KKKKKKKK. FINALMENTE chegamos na cachu, pulamos daquela porra de 10 metros e a Júlia comeu uma cesta básica de biscoito 🍪. Eu escutando Bob Marley e com os meus incensos no meio do mato. Voltamos pra VP com geral morto dentro do carro, só o barro, e depois indo no mercado pra eu estragar o macarrão do Ruan no final Kkkkkkkkkk. Esse só foi um dos rolês maravilhosos que tivemos esse ano. Estou contando os dias pra você voltar e criarmos mais memórias inesquecíveis como essa. Lembre-se que amamos muito você, e quando você voltar vamos ter que sair muito mais. Estou morrendo de saudade, Gih, volta logo ❤",
+    "videosPath": "",
+    "pessoa": "Marley"
+  },
+  {
+    "codigo": "LE8NS",
+    "imagensPath": ["../../Assets/gabi01.jpg", "../../Assets/gabi02.jpg"],
+    "recado": "Giih você é uma pessoa incrível, amorosa, engraçada, inteligente, linda e vários outros adjetivos que eu poderia fazer um texto apenas citando eles, tenho muito orgulho de você e da mulher que você é e da forma como você é com todos a sua volta🩷. É sempre um acontecimento nossos momentos juntas, a gente ta sempre rindo das coisas mais bobas que só a gente entende, até ficar na bad escutando a sua playlist de músicas depressivas no seu quarto é algo muito bom, ficar bebada cantando as antigas do Luan com você é sensacional kkkkkk. Amo você Gigi, você é uma amiga incrível e agradeço a Deus e ao Ejoc por terem colocado você na minha vida 🩷",
+    "videosPath": "",
+    "pessoa": "Gabi"
+  },
+  {
+    "codigo": "7PZ2J",
+    "imagensPath": ["../../Assets/bru01.jpg", "../../Assets/bru02.jpg", "../../Assets/bru03.jpg"],
+    "recado": "Oii amg, espero q vc tenha uma viagem maravilhosa e q vc aproveite mtooo! Saiba q vou tá smp aq torcendo p seu mlhr, torcendo tb p q tu coma direito KKKKK🙏🏽 (pfvr faz um esforço pela sua amg nutri aq!!) Que Deus acompanhe vc durante toda sua viagem e te guarde! Obg por voltar a fzr parte da minha vida, fico mto feliz d termos nos encontrado dnv e dessa vez sermos mais próximas, tb…agr n estamos mais no maternal né kkkkkk ent sei q nss amizade vai durar por mtos e mtos anos! Vc é uma mulher incrível, linda, inteligente, capaz d mtas coisas e espero q vc consiga enxergar o tanto q vc é especial na minha vida e d outras pessoas simplesmente por ser vc! Te amo, aproveita mto e vou tá te esperando qnd voltar p comemorar meu niver kkkkkk💕 ",
+    "videosPath": "",
+    "pessoa": "Bru Bru"
+  },
+  {
+    "codigo": "8MP98",
+    "imagensPath": ["../../Assets/bru04.jpg", "../../Assets/bru05.jpg", "../../Assets/bru06.jpg"],
+    "recado": "Agr venho aq agradecer e relembrar nss momentos juntas! Começando lá em 2011 (pouco tempo KKKKK) lembro dql menina branquinha, c cabelo chanel e franjinha fznd parte dos meus dias e das brincadeiras mais bestas, como o concurso d arroto KKKKKK, brincar no parquinho(especialmente nql gira gira q era incrível kkkkkkk) e tb lembro vagamente da sua festa d aniversário da gatinha Marie kkkkk enfim n tenho mta memória desse tempo, mas sei q vc fez parte deles e foram tds mtos especiais! Dps a gnt se reencontrou na frente do Isaac Newton e até q aproximamos um pouco e puxamos umas conversas no insta hahahah E finalmente o ejoc apareceu, eu fiquei aliviada d ter uma pss conhecida ali na fila d inscrição, pq eu tava numa ressaca e tava p dormir lá kkkkk foi mto bom, a gnt ficou lá conversando enquanto a fila andava. E aí dps do encontro a gnt foi se aproximando mais e mais… vivemos mtas coisas em rolês aleatórios, noites d filme no seu ap, shows, festas, churrascos, e nas missas tb claro kkk Uma memória específica me veio aq agr, no aniversário da Letícia no brazolia, sei q n foi um dos seus melhores momentos, mas nql dia eu vi q vc precisava d um amg/apoio e lembrei d algo simples q eu sei q poderia pelo menos tirar um sorriso sincero do seu rosto, ent fui lá e comprei uma rosa, te entreguei e as duas bestas ficaram c os olhos cheios d’água. Amo essa nss memória, pq msm num momento ruim eu consegui tirar um sorriso seu! E agr chega d falar pq eu falei dms e tô quase chorando aq KKKKK Enfim amg, mto obg por tds nss momentos, q possamos viver mto ais em 2025 e durante nss amizade! Amo vc dms🩵",
+    "videosPath": "",
+    "pessoa": "Bru Bru"
+  },
+  {
+    "codigo": "LG7QJ",
+    "imagensPath": null,
+    "recado": "Lembra do dia que você era bem pequena e eu machuquei a cabeça lá na SQB? Lembro do desespero da sua avó tentando me acudir, ao mesmo tempo que tava preocupada com você kkk. Fiz um galo gigante na cabeça, ficou por muito tempo aqui",
+    "videosPath": "",
+    "pessoa": "Augusto"
+  },
+  {
+    "codigo": "HN387",
+    "imagensPath": null,
+    "recado": "Lembro do dia que você nasceu, do seu pai chegando lá na casa da minha vó chorando muito e mostrando sua foto no celular (pensa no celular da época) com a tela minúscula e você toda miudinha ainda. O trabalho foi pra conter o choro do Wendel. Foi uma noite feliz aquele dia, nossa família tava reunida também",
+    "videosPath": "",
+    "pessoa": "Augusto"
+  },
+  {
+    "codigo": "YAFOO",
+    "imagensPath": null,
+    "recado": "Acho que no dia daquele pagode que fomos no início do ano ficou marcado pra mim por que nos unimos mais fortemente depois dali. Foi um dia bom demais, curtimos bastante",
+    "videosPath": "",
+    "pessoa": "Augusto"
+  },
+  {
+    "codigo": "9G4CB",
+    "imagensPath": null,
+    "recado": "Isso é pra quando estiver um pouco triste por algo que aconteceu aí,mas lembra que estamos daqui torcendo por você por estar realizando um sonho!E que particularmente acho incrível a coragem que teve de enfrentar um país desconhecido e ainda sozinha!Vc sabe que é foda amiga,mas na tentativa ainda te deixar um pouco mais feliz vou recordar alguns momentos que tivemos juntas esses anos.Como nós duas na calourada que ficamos malucas juntas e ainda quando deixei vc assoprar 1 kilo de glitter em mim sem pensar 2 vezes,ou quando estávamos voltando no ônibus e foi aquela bagunça que as únicas coisas que eu lembro foi da gente rindo pra caralho e depois que descobriram que a jogaram pela janela a camiseta daquele menino e ainda todo mundo saindo do ônibus com a cara toda azul,parecendo aquela cara da tim e indo ainda pro seu prédio. E por mais que hoje em dia algumas pessoas dessas fotos/vídeos não esta no nosso convívio, fico honrada e feliz de continuar participando sua vida 🫶🏻",
+    "videosPath": ["../../Assets/Julia/parte01/01.mp4", "../../Assets/Julia/parte01/02.mp4", "../../Assets/Julia/parte01/03.mp4", "../../Assets/Julia/parte01/04.mp4"],
+    "pessoa": "Julia"
+  },
+  {
+    "codigo": "LKD25",
+    "imagensPath": ["../../Assets/Julia/parte02/01.jpg", "../../Assets/Julia/parte02/02.jpg"],
+    "recado": "Sei que pode estar se sentindo um pouco solitária aí sozinha,mas lembra que isso é só uma fase é que vai passar!Uma fase pra vc aproveitar que mesmo sozinha,o seu sonho e que lembra que já já vai estar aqui com a gente curtindo e gritando na rua igual doidos e pra isso vou relembrar alguns momentos que tivemos juntas e que daqui alguns dias vamos estar fazendo mais roles insalubres todos juntos.Então primeiramente pra lembrá-la o quanto te amamos(e principalmente eu pq eu que dei a ideia hihi) algumas fotos/vídeos de quando fizemos uma surpresinha de aniversário pra vc e que estava na sua cara q tinha amado hihi.Teve também quando comemoramos seu aniversário naquele bar que tiramos essas fotos lindíssimas e que olho pra elas e pensar que passei tantos momentos assim contigo me sinto privilegiada de ter vc na minha vida e que tô aqui contando os dias pra vc voltar pra continuar saindo juntas e rindo de tudo. Se ainda estiver se sentindo sozinha,lembra que pode me ligar sempre!Nos sabemos o quanto já compartilhamos coisas entre a gente que as vezes ia de um simples riso até um choro de desabafo,então se quiser desabafar ou até só pra conversar e me contar como foi seu dia(e pode saber que vou querer saber todos os detalhes) pode me ligar quando quiser!(prometo que não colocou celular em modo avião quando dormir kkkk).E aproveitando esse momento,queria agradecer por todos os conselhos que já me deu e que ainda vai me dar bastante durante todos esses anos kkkk e tb até por me escutar,as vezes nem sabendo oque dizer na hora,só o fato de estar ali me escutando já ajudava muito.",
+    "videosPath": ["../../Assets/Julia/parte02/03.mp4", "../../Assets/Julia/parte02/04.mp4", "../../Assets/Julia/parte02/05.mp4"],
+    "pessoa": "Julia"
+  },
+  {
+    "codigo": "4W4MI",
+    "imagensPath": "../../Assets/Julia/parte03/01.jpg",
+    "recado": "Olá moça,não sabia muito oque colocar nesse ponto,mas a única coisa que pensei em colocar foi alguns memes(sei que era difícil vc rir de algum mas pelo menos lembra de quanto eu passava mal de rir ao mostrar pra vc) e ainda algumas fotos/vídeos de algumas coisas que acontece com a gente que são inesquecíveis",
+    "videosPath": ["../../Assets/Julia/parte03/02.mp4", "../../Assets/Julia/parte03/03.mp4", "../../Assets/Julia/parte03/04.mp4", "../../Assets/Julia/parte03/05.mp4", "../../Assets/Julia/parte03/06.mp4"],
+    "pessoa": "Julia"
+  },
+  {
+    "codigo": "855YG",
+    "imagensPath": ["../../Assets/Julia/parte04/01.jpg", "../../Assets/Julia/parte04/02.jpg", "../../Assets/Julia/parte04/03.jpg", "../../Assets/Julia/parte04/04.jpg", "../../Assets/Julia/parte04/05.jpg"],
+    "recado": "Ei ei mocinha,n quero nem pensar q vc tá aí pensando q n tá aguentando mais,lembra o quanto estava contando os dias ansiosa para que chegasse finalmente o dia de estar aí??Vai realizar seu sonho mulher!!Eu sei que a saudade aperta dms,mas lembra que isso é só uma fase é que já já estava aqui de novo contando todas as aventuras que teve aí,lembra q vai dar tudo certo!Vc é uma menina foda e independente e sabe disso!!Entao se quiser conversar pode me ligar na hora q tiver lendo isso e conta comigo pra tudo!! Mas nadinha de desistir viu?! Vai fazer todo esforço pra nada?!nonono.Lembra que tá todo mundo aqui te esperando pra vc voltar realizada com seu sonho ❤",
+    "videosPath": "../../Assets/Julia/parte04/06.mp4",
+    "pessoa": "Julia"
+  },
+  {
+    "codigo": "0SQ5P",
+    "imagensPath": null,
+    "recado": "Oi Giovanna, Que esse novo desafio que vivenciará durante esses dois meses sirva muito para sua vida. Que vc aproveite ao máximo tudo que esse novo lugar te proporcionar. Saiba que ficamos preocupados, assim como seus avós, pais e familiares mas temos a certeza que voltará mais madura e com uma enorme bagagem pra vida. Curta ao máximo, tenho certeza que vc terá o total apoio do Ruan, dos seus amigos e familiares e saiba que quando voltar terá todos que te amam de braços abertos pra te receber. Vai com Deus e se cuida. 😘",
+    "videosPath": null,
+    "pessoa": "Cristiane, Sogrinha"
   }
-  
 ]
