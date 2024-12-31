@@ -4,27 +4,25 @@ import RecadoPage from "../RecadoPage/RecadoPage";
 import MockData from '../../Mock/MockData.json';
 
 const images = [
-  "/Assets/001.jpg",
-  "/Assets/002.jpg",
-  "/Assets/003.jpg",
-  "/Assets/004.jpg",
-  "/Assets/005.jpg",
-  "/Assets/006.jpg",
-  "/Assets/007.jpg",
-  "/Assets/008.jpg",
-  "/Assets/009.jpg",
-  "/Assets/010.jpg",
-  "/Assets/011.jpg",
-  "/Assets/012.jpg",
-  "/Assets/013.jpg",
-  "/Assets/014.jpg",
-  "/Assets/015.jpg",
-  "/Assets/016.jpg",
-  "/Assets/017.jpg",
-  "/Assets/018.jpg",
-  "/Assets/019.jpg",
-  "/Assets/020.jpg",
-  "/Assets/021.jpg",
+  "/Assets/01.jpg",
+  "/Assets/02.jpg",
+  "/Assets/03.jpg",
+  "/Assets/04.jpg",
+  "/Assets/05.jpg",
+  "/Assets/06.jpg",
+  "/Assets/07.jpg",
+  "/Assets/08.jpg",
+  "/Assets/09.jpg",
+  "/Assets/10.jpg",
+  "/Assets/11.jpg",
+  "/Assets/12.jpg",
+  "/Assets/13.jpg",
+  "/Assets/14.jpg",
+  "/Assets/15.jpg",
+  "/Assets/16.jpg",
+  "/Assets/17.jpg",
+  "/Assets/18.jpg",
+  "/Assets/19.jpg",
 ]
 
 function Mosaico() {
@@ -54,7 +52,7 @@ function Mosaico() {
                 alt={`Imagem ${groupIndex}-${index}`}
                 className="object-cover w-full sm:w-1/3"
                 style={{
-                  height: "100vh", // Cada imagem ocupará 100% da altura da tela
+                  height: "80vh", // Cada imagem ocupará 100% da altura da tela
                 }}
               />
             ))}
