@@ -297,7 +297,7 @@
     "codigo": "Q9C5T",
     "imagensPath": null,
     "recado": null,
-    "videosPath": "../../Assets/Ruan/05.mp4",
+    "videosPath": ["../../Assets/Ruan/05-1.mp4", "../../Assets/Ruan/05-2.mp4"],
     "pessoa": "Lindão"
   }
 ]
