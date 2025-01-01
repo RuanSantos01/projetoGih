@@ -23,6 +23,17 @@ const images = [
   "/Assets/17.jpg",
   "/Assets/18.jpg",
   "/Assets/19.jpg",
+  "/Assets/20.jpg",
+  "/Assets/21.jpg",
+  "/Assets/22.jpg",
+  "/Assets/23.jpg",
+  "/Assets/24.jpg",
+  "/Assets/25.jpg",
+  "/Assets/26.jpg",
+  "/Assets/27.jpg",
+  "/Assets/28.jpg",
+  "/Assets/29.jpg",
+  "/Assets/30.jpg",
 ]
 
 function Mosaico() {
